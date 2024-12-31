@@ -1,3 +1,9 @@
+# Setup
+Deploy code - this changes the CANcoder mode (and breaks our other code)
+Turn bevels left
+Read absolute position no offset, convert to degrees
+
+
 # Yet Another Generic Swerve Library (YAGSL) Example project
 
 YAGSL is intended to be an easy implementation of a generic swerve drive that should work for most
